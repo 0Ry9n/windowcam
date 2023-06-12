@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20230604-180531.jpg</filename>
+    <folder>windowcam</folder>
+    <source>
+        <database>windowcam</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Car</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>650</xmin>
+            <ymin>437</ymin>
+            <xmax>779</xmax>
+            <ymax>506</ymax>
+        </bndbox>
+    </object>
+</annotation>

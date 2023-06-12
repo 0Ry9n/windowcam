@@ -1,0 +1,6 @@
+Car
+Truck
+Ambulance
+Person
+Van
+Motorcycle
